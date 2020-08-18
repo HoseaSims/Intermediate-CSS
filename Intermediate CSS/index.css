@@ -1,0 +1,87 @@
+
+body
+{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather Sans', sans-serif;
+    color: #e84545;
+    background-color: #53354a;
+    font-size: 1.5rem;
+}
+
+.home
+{
+    background-color: #2b2e4a;
+    position: relative;
+    padding-top: 100px;
+    
+}
+
+h1
+{
+    margin: 0px;
+    bottom: 0px;
+    font-family: 'Exo', sans-serif;
+    font-size: 5.625rem;
+    
+}
+
+h2
+{
+    font-weight: normal;
+    line-height: 2;
+}
+
+a
+{
+    color: #903749;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+p
+{
+    line-height: 2;
+}
+
+.skill-row
+{
+    width: 50%;
+    top: 100px;
+    bottom: 100px;
+    text-align: left;
+}
+
+.chili-img 
+{
+    width: 25%;
+    float: left;
+    padding: 0 30px;
+}
+
+.computer-img
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+hr
+{
+    border-style: dotted;
+    width: 100px;
+    
+}
+
+.bottom-container
+{
+    background-color: #2b2e4a;
+    
+    padding: 50px 0 20px;
+}
+
+.footer-link
+{
+    
+}
